@@ -1,0 +1,24 @@
+{
+  "name": "hexo-qidaink-swiper_bar",
+  "version": "1.0.0",
+  "description": "The swiper bar of Cloud And Sea.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qidaink/hexo-qidaink-swiper_bar.git"
+  },
+  "keywords": [
+    "swiper",
+    "butterfly",
+    "next"
+  ],
+  "author": "qidaink",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qidaink/hexo-qidaink-swiper_bar/issues"
+  },
+  "homepage": "https://github.com/qidaink/hexo-qidaink-swiper_bar#readme"
+}
