@@ -1,6 +1,6 @@
 {
   "name": "hexo-qidaink-swiper_bar",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "The swiper bar of Cloud And Sea.",
   "main": "index.js",
   "scripts": {
